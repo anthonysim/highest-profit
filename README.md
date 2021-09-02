@@ -44,4 +44,4 @@ Type ```npm run test``` to run tests.
 - Finally a new file named ```data2.json``` is created which reflects all objects in an array sorted by profits (largest to smallest) with all non-numeric data removed.
 
 ## Usage
-Type "```bash run.sh```" in the command line.
+Type ```bash run.sh``` in the command line.
