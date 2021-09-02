@@ -1,0 +1,14 @@
+{
+  "name": "highest-profit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "neat-csv": "^6.0.1"
+  }
+}
