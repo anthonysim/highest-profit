@@ -6,7 +6,8 @@
 2. [Output-Produced](#Output-Produced)
 3. [Development](#Development)
 4. [Code-Algo-Design](#Code-Algo-Design)
-5. [Usage](#Usage)
+5. [Testing](#Testing)
+6. [Usage](#Usage)
 
 ## Input-Needed
 
@@ -27,6 +28,14 @@ Here is a photo example of a csv file below to illustrate what was stated above.
 - Total rows of data after removing all non-numeric profits.
 - Top 20 rows with the highest profit values.
 - JSON file named ```data2.json``` which is ordered by profit (largest to smallest) with all non-numeric profit data removed from the original raw ```data.csv``` file.
+
+## Testing
+The following tests were conducted using npm packages mocha and chai:
+- Testing of ```data.csv``` file to ensure a total of 25500 rows.
+- Testing of ```data2.json``` file to ensure a total of 25131 rows.
+- Testing of difference ensure a total of 369 rows (non-numeric data).
+
+Type ```npm run test``` to run tests.
 
 ## Code-Algo-Design
 - The code that runs this script is in a file called ```app.js```.

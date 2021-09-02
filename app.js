@@ -41,7 +41,9 @@ async function generateData() {
   } catch (err) {
     console.error(err);
   }
+  return res;
 }
 
 generateData();
 
+module.exports = { generateData };
