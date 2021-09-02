@@ -4,11 +4,10 @@
 
 1. [Input-Needed](#Input-Needed)
 2. [Output-Produced](#Output-Produced)
-3. [Development](#Development)
-4. [Code-Algo-Design](#Code-Algo-Design)
-5. [Testing](#Testing)
-6. [Requirements](#Requirements)
-7. [Usage](#Usage)
+3. [Code-Algo-Design](#Code-Algo-Design)
+4. [Testing](#Testing)
+5. [Requirements](#Requirements)
+6. [Usage](#Usage)
 
 ## Input-Needed
 
