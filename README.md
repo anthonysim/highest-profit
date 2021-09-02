@@ -44,4 +44,7 @@ Type ```npm run test``` to run tests.
 - Finally a new file named ```data2.json``` is created which reflects all objects in an array sorted by profits (largest to smallest) with all non-numeric data removed.
 
 ## Usage
-Type ```bash run.sh``` in the command line.
+1. Clone Gitub Repo
+2. Install packages: ```npm install```
+3. Run tests: ```npm run test```
+4. Run script: ```bash run.sh```
