@@ -7,7 +7,8 @@
 3. [Development](#Development)
 4. [Code-Algo-Design](#Code-Algo-Design)
 5. [Testing](#Testing)
-6. [Usage](#Usage)
+6. [Requirements](#Requirements)
+7. [Usage](#Usage)
 
 ## Input-Needed
 
@@ -42,6 +43,9 @@ Type ```npm run test``` to run tests.
 - The npm package ```neat-csv``` is used to convert the ```data.csv``` file from csv to JSON.
 - From there the JSON data is iterated, updating the keys of each object data to year, rank, company, revenue, and profit. All non-numeric objects are removed as well.
 - Finally a new file named ```data2.json``` is created which reflects all objects in an array sorted by profits (largest to smallest) with all non-numeric data removed.
+
+## Requirements
+- Node
 
 ## Usage
 1. Clone Gitub Repo
